@@ -1,6 +1,3 @@
-# Created by Daniel
-# Modified by Eivind
-
 # Change the variables
 set BSSID to "NetworkBSSID"
 set startString to "pwdStartString"
