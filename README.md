@@ -12,3 +12,7 @@ set startString to "pwdStartString"
 set computerUsername to "username"
 set computerPassword to "password"
 ```
+
+## Licensing
+
+MIT.
