@@ -51,4 +51,4 @@ First version of script was written by `danhje`.
 
 ## License
 
-[MIT](license) © [Wifi Brute-force Script](Wifi Brute-force Script)
+[MIT](license) © [Eivind Mikael Lindbråten](http://madebymist.com)
